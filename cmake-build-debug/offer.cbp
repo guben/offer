@@ -103,6 +103,9 @@
 		<Unit filename="E:/offer/algo11.cpp">
 			<Option target="offer"/>
 		</Unit>
+		<Unit filename="E:/offer/algo12.cpp">
+			<Option target="offer"/>
+		</Unit>
 		<Unit filename="E:/offer/algo2.cpp">
 			<Option target="offer"/>
 		</Unit>

@@ -257,6 +257,33 @@ algo11.cpp.s:
 	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/algo11.cpp.s
 .PHONY : algo11.cpp.s
 
+algo12.obj: algo12.cpp.obj
+
+.PHONY : algo12.obj
+
+# target to build an object file
+algo12.cpp.obj:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/algo12.cpp.obj
+.PHONY : algo12.cpp.obj
+
+algo12.i: algo12.cpp.i
+
+.PHONY : algo12.i
+
+# target to preprocess a source file
+algo12.cpp.i:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/algo12.cpp.i
+.PHONY : algo12.cpp.i
+
+algo12.s: algo12.cpp.s
+
+.PHONY : algo12.s
+
+# target to generate assembly for a file
+algo12.cpp.s:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/algo12.cpp.s
+.PHONY : algo12.cpp.s
+
 algo2.obj: algo2.cpp.obj
 
 .PHONY : algo2.obj
@@ -497,6 +524,9 @@ help:
 	@echo ... algo11.obj
 	@echo ... algo11.i
 	@echo ... algo11.s
+	@echo ... algo12.obj
+	@echo ... algo12.i
+	@echo ... algo12.s
 	@echo ... algo2.obj
 	@echo ... algo2.i
 	@echo ... algo2.s
