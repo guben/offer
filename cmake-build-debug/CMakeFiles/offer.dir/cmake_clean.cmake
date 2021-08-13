@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/offer.dir/Utilities/BinaryTree.cpp.obj"
   "CMakeFiles/offer.dir/Utilities/List.cpp.obj"
   "CMakeFiles/offer.dir/algo1.cpp.obj"
+  "CMakeFiles/offer.dir/algo10.cpp.obj"
+  "CMakeFiles/offer.dir/algo11.cpp.obj"
   "CMakeFiles/offer.dir/algo2.cpp.obj"
   "CMakeFiles/offer.dir/algo4.cpp.obj"
   "CMakeFiles/offer.dir/algo6.cpp.obj"

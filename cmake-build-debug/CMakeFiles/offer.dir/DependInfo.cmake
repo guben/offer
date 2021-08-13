@@ -7,6 +7,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/offer/Utilities/BinaryTree.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/Utilities/BinaryTree.cpp.obj"
   "E:/offer/Utilities/List.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/Utilities/List.cpp.obj"
   "E:/offer/algo1.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo1.cpp.obj"
+  "E:/offer/algo10.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo10.cpp.obj"
+  "E:/offer/algo11.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo11.cpp.obj"
   "E:/offer/algo2.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo2.cpp.obj"
   "E:/offer/algo4.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo4.cpp.obj"
   "E:/offer/algo6.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo6.cpp.obj"
