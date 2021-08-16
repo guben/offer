@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/offer/algo11.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo11.cpp.obj"
   "E:/offer/algo12.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo12.cpp.obj"
   "E:/offer/algo13.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo13.cpp.obj"
+  "E:/offer/algo14.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo14.cpp.obj"
   "E:/offer/algo2.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo2.cpp.obj"
   "E:/offer/algo4.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo4.cpp.obj"
   "E:/offer/algo6.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo6.cpp.obj"
