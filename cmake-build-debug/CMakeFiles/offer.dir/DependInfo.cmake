@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "E:/offer/CutRope.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/CutRope.cpp.obj"
+  "E:/offer/Print1ToMaxOfNDigits.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/Print1ToMaxOfNDigits.cpp.obj"
   "E:/offer/Utilities/BinaryTree.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/Utilities/BinaryTree.cpp.obj"
   "E:/offer/Utilities/List.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/Utilities/List.cpp.obj"
   "E:/offer/algo1.cpp" "E:/offer/cmake-build-debug/CMakeFiles/offer.dir/algo1.cpp.obj"

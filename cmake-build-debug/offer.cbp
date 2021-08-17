@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/offer/CutRope.cpp">
+			<Option target="offer"/>
+		</Unit>
+		<Unit filename="E:/offer/Print1ToMaxOfNDigits.cpp">
+			<Option target="offer"/>
+		</Unit>
 		<Unit filename="E:/offer/Utilities/BinaryTree.cpp">
 			<Option target="offer"/>
 		</Unit>

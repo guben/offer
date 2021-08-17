@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/offer.dir/CutRope.cpp.obj"
+  "CMakeFiles/offer.dir/Print1ToMaxOfNDigits.cpp.obj"
   "CMakeFiles/offer.dir/Utilities/BinaryTree.cpp.obj"
   "CMakeFiles/offer.dir/Utilities/List.cpp.obj"
   "CMakeFiles/offer.dir/algo1.cpp.obj"

@@ -122,6 +122,60 @@ offer/fast:
 	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/build
 .PHONY : offer/fast
 
+CutRope.obj: CutRope.cpp.obj
+
+.PHONY : CutRope.obj
+
+# target to build an object file
+CutRope.cpp.obj:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/CutRope.cpp.obj
+.PHONY : CutRope.cpp.obj
+
+CutRope.i: CutRope.cpp.i
+
+.PHONY : CutRope.i
+
+# target to preprocess a source file
+CutRope.cpp.i:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/CutRope.cpp.i
+.PHONY : CutRope.cpp.i
+
+CutRope.s: CutRope.cpp.s
+
+.PHONY : CutRope.s
+
+# target to generate assembly for a file
+CutRope.cpp.s:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/CutRope.cpp.s
+.PHONY : CutRope.cpp.s
+
+Print1ToMaxOfNDigits.obj: Print1ToMaxOfNDigits.cpp.obj
+
+.PHONY : Print1ToMaxOfNDigits.obj
+
+# target to build an object file
+Print1ToMaxOfNDigits.cpp.obj:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/Print1ToMaxOfNDigits.cpp.obj
+.PHONY : Print1ToMaxOfNDigits.cpp.obj
+
+Print1ToMaxOfNDigits.i: Print1ToMaxOfNDigits.cpp.i
+
+.PHONY : Print1ToMaxOfNDigits.i
+
+# target to preprocess a source file
+Print1ToMaxOfNDigits.cpp.i:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/Print1ToMaxOfNDigits.cpp.i
+.PHONY : Print1ToMaxOfNDigits.cpp.i
+
+Print1ToMaxOfNDigits.s: Print1ToMaxOfNDigits.cpp.s
+
+.PHONY : Print1ToMaxOfNDigits.s
+
+# target to generate assembly for a file
+Print1ToMaxOfNDigits.cpp.s:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/Print1ToMaxOfNDigits.cpp.s
+.PHONY : Print1ToMaxOfNDigits.cpp.s
+
 Utilities/BinaryTree.obj: Utilities/BinaryTree.cpp.obj
 
 .PHONY : Utilities/BinaryTree.obj
@@ -563,6 +617,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... offer
 	@echo ... edit_cache
+	@echo ... CutRope.obj
+	@echo ... CutRope.i
+	@echo ... CutRope.s
+	@echo ... Print1ToMaxOfNDigits.obj
+	@echo ... Print1ToMaxOfNDigits.i
+	@echo ... Print1ToMaxOfNDigits.s
 	@echo ... Utilities/BinaryTree.obj
 	@echo ... Utilities/BinaryTree.i
 	@echo ... Utilities/BinaryTree.s
