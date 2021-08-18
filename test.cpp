@@ -22,8 +22,15 @@ public:
     ~B(){cout<<"B destructor\n";}
 };
 int main(){
-    string a("aaa");
-    cout<<a<<endl;
-    if(a[3]=='\0')
-        cout<<"nice";
+//    string a("aaa");
+//    cout<<a<<endl;
+//    if(a[3]=='\0')
+//        cout<<"nice";
+    string* p=new string("aaa");
+    string* k=p;
+    cout<<*p<<endl;
+    delete k;
+    if(p==nullptr)
+        cout<<"ok"<<endl;
+    cout<<*p<<endl;
 }
