@@ -3,6 +3,7 @@
 //
 
 #include<iostream>
+#include<string>
 using namespace std;
 class A{
 private:
@@ -21,5 +22,8 @@ public:
     ~B(){cout<<"B destructor\n";}
 };
 int main(){
-    B b(1,1);
+    string a("aaa");
+    cout<<a<<endl;
+    if(a[3]=='\0')
+        cout<<"nice";
 }

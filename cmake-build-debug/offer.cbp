@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/offer/16_deleteLstNode.cpp">
+			<Option target="offer"/>
+		</Unit>
+		<Unit filename="E:/offer/17_deleteDuplicatedNode.cpp">
+			<Option target="offer"/>
+		</Unit>
 		<Unit filename="E:/offer/CutRope.cpp">
 			<Option target="offer"/>
 		</Unit>

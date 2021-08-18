@@ -122,6 +122,60 @@ offer/fast:
 	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/build
 .PHONY : offer/fast
 
+16_deleteLstNode.obj: 16_deleteLstNode.cpp.obj
+
+.PHONY : 16_deleteLstNode.obj
+
+# target to build an object file
+16_deleteLstNode.cpp.obj:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/16_deleteLstNode.cpp.obj
+.PHONY : 16_deleteLstNode.cpp.obj
+
+16_deleteLstNode.i: 16_deleteLstNode.cpp.i
+
+.PHONY : 16_deleteLstNode.i
+
+# target to preprocess a source file
+16_deleteLstNode.cpp.i:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/16_deleteLstNode.cpp.i
+.PHONY : 16_deleteLstNode.cpp.i
+
+16_deleteLstNode.s: 16_deleteLstNode.cpp.s
+
+.PHONY : 16_deleteLstNode.s
+
+# target to generate assembly for a file
+16_deleteLstNode.cpp.s:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/16_deleteLstNode.cpp.s
+.PHONY : 16_deleteLstNode.cpp.s
+
+17_deleteDuplicatedNode.obj: 17_deleteDuplicatedNode.cpp.obj
+
+.PHONY : 17_deleteDuplicatedNode.obj
+
+# target to build an object file
+17_deleteDuplicatedNode.cpp.obj:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/17_deleteDuplicatedNode.cpp.obj
+.PHONY : 17_deleteDuplicatedNode.cpp.obj
+
+17_deleteDuplicatedNode.i: 17_deleteDuplicatedNode.cpp.i
+
+.PHONY : 17_deleteDuplicatedNode.i
+
+# target to preprocess a source file
+17_deleteDuplicatedNode.cpp.i:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/17_deleteDuplicatedNode.cpp.i
+.PHONY : 17_deleteDuplicatedNode.cpp.i
+
+17_deleteDuplicatedNode.s: 17_deleteDuplicatedNode.cpp.s
+
+.PHONY : 17_deleteDuplicatedNode.s
+
+# target to generate assembly for a file
+17_deleteDuplicatedNode.cpp.s:
+	$(MAKE) -f CMakeFiles\offer.dir\build.make CMakeFiles/offer.dir/17_deleteDuplicatedNode.cpp.s
+.PHONY : 17_deleteDuplicatedNode.cpp.s
+
 CutRope.obj: CutRope.cpp.obj
 
 .PHONY : CutRope.obj
@@ -617,6 +671,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... offer
 	@echo ... edit_cache
+	@echo ... 16_deleteLstNode.obj
+	@echo ... 16_deleteLstNode.i
+	@echo ... 16_deleteLstNode.s
+	@echo ... 17_deleteDuplicatedNode.obj
+	@echo ... 17_deleteDuplicatedNode.i
+	@echo ... 17_deleteDuplicatedNode.s
 	@echo ... CutRope.obj
 	@echo ... CutRope.i
 	@echo ... CutRope.s
