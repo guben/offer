@@ -24,13 +24,29 @@ ListNode* ReverseList(ListNode* pHead){
     return pReversedHead;
 }
 
+//递归解法
+ListNode* helper(ListNode*pre, ListNode* nextList){
+    if(nextList== nullptr)
+        return pre;
+    ListNode* pnext=nextList->m_pNext;
+    nextList->m_pNext=pre;
+    pre=nextList;
+    return helper(pre,pnext);
+}
+
+ListNode* ReverseListRecur(ListNode* pHead) {
+    ListNode* ret=helper(nullptr, pHead);
+    return ret;
+}
+
+
 // ====================测试代码====================
 ListNode* Test(ListNode* pHead)
 {
     printf("The original list is: \n");
     PrintList(pHead);
 
-    ListNode* pReversedHead = ReverseList(pHead);
+    ListNode* pReversedHead = ReverseListRecur(pHead);
 
     printf("The reversed list is: \n");
     PrintList(pReversedHead);
